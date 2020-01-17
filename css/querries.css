@@ -1,0 +1,19 @@
+
+body{
+    background-color:black;
+}
+
+
+.questions1{
+    width:500px;
+    height:250px;
+    position:absolute;
+    top:5%;
+    left:20%;
+    background-color:white;
+    transform: translate(-50px -50px);
+    box-sizing: border-box;
+    border-radius: 40px;
+  margin-top:150px;
+  text-align: center;
+}
